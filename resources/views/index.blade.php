@@ -962,8 +962,8 @@ mixpanel.init("412a5d35fda9da7599d1efeb1d4bbf06");</script><!-- end Mixpanel -->
 			    </span>
 				</a>
 				<div class="living_desc">
-				<h3><a href="product">aliquam volutp</a></h3>
-				<p>Lorem ipsum consectetuer adipiscing </p>
+				<h3><a href="product">PrideInn Hotel</a></h3>
+				<p>Nairobi </p>
 				<a href="product" class="btn3">Book</a>
 				<p class="price">$100.00</p>
 				</div>
